@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ForSPED" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="pathExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ecosis\windows</Value>
+    </Setting>
+    <Setting Name="pathAtualizadores" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ecosis\windows</Value>
+    </Setting>
+    <Setting Name="pathBases" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ecosis\dados\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
